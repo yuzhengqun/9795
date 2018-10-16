@@ -1,0 +1,12 @@
+1 从juming.com获取域名列表,和上一次对比入库
+2 获取未备案的域名列表,
+
+
+
+
+注册商
+{"新网":["北京新网数码信息技术有限公司","whois.paycenter.com.cn","whois.xinnet.com"],"阿里云(万网)":["grs-whois.hichina.com"," 阿里云计算有限公司(万网)"],"易名":["厦门易名科技有限公司(原厦门易名网络科技有限公司)","whois.ename.com"],"22":["浙江贰贰网络有限公司","whois.22.cn"],"西数":["whois.west263.com","whois.west.cn"],"商务中国":["whois.bizcn.com"],"namebright":["whois.namebright.com"],"web":["whois.web.com"],"易介":["易介集团北京有限公司","易介集团控股有限公司"],"美橙":["上海美橙科技信息发展有限公司","grs-whois.cndns.com"]}
+
+
+nameServer
+["jm1.dns.com; jm2.dns.com","v1.dnsdun.com; v1.dnsdun.net","ag1.juming.com; ag2.juming.com","v1.juming.com; v2.juming.com",""]
